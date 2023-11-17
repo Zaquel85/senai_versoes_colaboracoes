@@ -27,4 +27,4 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 # Entre no diretório
 ❯ cd senai_versoes_colaboracoes
-
+lembrei do comando: git commit
